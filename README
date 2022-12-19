@@ -1,0 +1,16 @@
+						Tema0 PCLP
+					     --TrickOrTreat--
+					     
+					       >>Read Me<<
+					       
+					       
+   Programul meu citeste un numar "N" care reprezinta numarul de numere citite.
+Apoi, folosind un indice notat cu "i" pornind de la 1 "parcurgem" toate numerele
+de la 1 pana la N si la fiecare numar testam daca acesta este divizibil cu 7
+respectiv cu 11 (folosind operatorul modulo % astfel: i % 7 == 0 si i % 11 == 0)
+daca numarul este divizibil cu 7 afisam cuvantul "Trick" pe eran, daca numarul 
+este divizibil cu 11 afisam cuvantul "Treat" pe ecran si daca numarul este
+divizibil si cu 7 si cu 11 afisam pe ecran "TrickOrTreat". Daca numarul nu este
+divizibil cu 7 sau cu 11 afisam numarul asa cum este.
+
+
